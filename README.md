@@ -1,18 +1,17 @@
 Hi there! 👋 I'm Ahmad Abdullah
  
 <p align="center">
- 
-   
-   
-  <a href=" https://www.ahmadabdullahdev.online/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://www.ahmadabdullahdev.online/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
 </p>
 
 ## 👨‍💻 About Me  
 
-- 🔭 Currently working on **Python & SpringBoot Projects**  
-- 🌱 Exploring **Backend Development & AI **  
-- 💬 Ask me about **Python | Next.js  | AI  | Spring Boot **  
-- ⚡ Fact: I love to develop applications irrespective of the stack**  
+- 🔭 Currently working on **Python & Spring Boot Projects**  
+- 🌱 Exploring **Backend Development & AI**  
+- 💬 Ask me about **Python | Next.js | AI | Spring Boot**  
+- ⚡ Fact: I love to develop applications irrespective of the stack  
 
 ---
 
@@ -21,7 +20,6 @@ Hi there! 👋 I'm Ahmad Abdullah
 <p align="center">
  
   <!-- Frontend -->
- 
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   
   <!-- Backend -->
@@ -44,14 +42,8 @@ Hi there! 👋 I'm Ahmad Abdullah
 
 ---
 
- 
-
 ## 🚀 Featured Projects
 
 - 🔹 [**Your Project 1**](#) – Short description here  
 - 🔹 [**Your Project 2**](#) – Short description here  
 - 🔹 [**Your Project 3**](#) – Short description here  
-
----
-
- 
