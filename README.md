@@ -10,8 +10,7 @@ Hi there! 👋 I'm Ahmad Abdullah
 
 - 🔭 Currently working on **Python & Spring Boot Projects**  
 - 🌱 Exploring **Backend Development & AI**  
-- 💬 Ask me about **Python | Next.js | AI | Spring Boot**  
-- ⚡ Fact: I love to develop applications irrespective of the stack  
+- ⚡ I love to develop applications irrespective of the stack  
 
 ---
 
@@ -41,9 +40,4 @@ Hi there! 👋 I'm Ahmad Abdullah
 </p>
 
 ---
-
-## 🚀 Featured Projects
-
-- 🔹 [**Your Project 1**](#) – Short description here  
-- 🔹 [**Your Project 2**](#) – Short description here  
-- 🔹 [**Your Project 3**](#) – Short description here  
+ 
