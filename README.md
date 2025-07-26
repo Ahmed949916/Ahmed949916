@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me  
 
 - Currently working on **AI & Spring Boot Projects**  
-- I love to develop applications irrespective of the stack  
+- Love to develop applications irrespective of the stack  
 
 <p align="center">
   <!-- Frontend -->
